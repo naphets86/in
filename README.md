@@ -217,8 +217,8 @@ Die Arbeiten sind nach Fachbereichen geordnet und innerhalb der Kategorien nach 
 Für qualifizierte Anfragen zur Lizenzierung, Einsichtnahme in Dokumentationen oder Verhandlungen bezüglich einer Rechteübertragung wenden Sie sich bitte an:
 
 **Urheber & Rechteinhaber:** Stephan Epp  
-**E-Mail:** [Kontakt-Adresse einfügen]  
-**GitHub:** [GitHub-Profil-Link einfügen]  
+**E-Mail:** Stephan_Epp@web.de  
+**GitHub:** https://github.com/naphets86/naphets86 
 
 ---
 
