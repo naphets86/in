@@ -1,147 +1,231 @@
-# Erwerbspreise aller Repositories und Arbeiten
+# Wissenschaftliche Arbeiten & Geistiges Eigentum – Stephan Epp
 
-126 Einträge aus den `## Erwerb`-Abschnitten der `README.md`-Dateien.
+Diese Dokumentation bietet eine Übersicht über 126 wissenschaftliche Arbeiten, Algorithmen und Modelle von Stephan Epp. Die aufgeführten Arbeiten stehen für die kommerzielle Nutzung, Lizenzierung, Weiterentwicklung oder Übernahme zur Verfügung. Die angegebenen Beträge dienen als erste Verhandlungsbasis (Bewertungsrichtwerte) für die Vergabe von Nutzungsrechten und hängen vom konkreten Verwendungszweck sowie vom Leistungsumfang ab.
 
-- **Fall 1:** Milliardenbeträge (ab 1.000.000.000 EUR) werden nur als Millionenbeträge gerechnet (Betrag ÷ 1.000).
-- **Fall 2:** Alle Beträge unverändert.
+---
 
-## Summen
+## Lizenzierungs- und Kooperationsmodelle
 
-| Fall | Summe in EUR |
-|---|---:|
-| 1: Milliardenbeträge als Millionen | 26.895.692.300,00 |
-| 2: Unverändert | 134.858.621.300,00 |
+Die Verwertung erfolgt standardmäßig über folgende Kooperationsstufen:
 
-Davon 55 Milliardenbeträge und 71 Beträge unter 1 Mrd. EUR.
+| Stufe | Zielgruppe / Anwendungsbereich | Leistungsumfang | Lizenz- / Preisstruktur |
+|---|---|---|---|
+| **Einfache Nutzung** | Prototyping, Forschung, interne Evaluierung | Nicht-exklusive Nutzung für festgelegte, interne Zwecke | Grundpreise (Verhandlungsbasis unterhalb des Richtwerts) |
+| **Kommerzielle Nutzung** | Produktintegration, operative Nutzung | Erweiterte Nutzungsrechte, optional inklusive technischem Support | Bewertung am Richtwert orientiert |
+| **F&E-Kooperation** | Unternehmen mit spezifischem Entwicklungsbedarf | Auftragsentwicklung, gemeinsame Weiterentwicklung oder Beratung | Abrechnung nach Aufwand und Projektumfang |
+| **Exklusive Übernahme** | Vollständige Rechteübertragung | Exklusive Lizenzierung oder vollständiger Rechteübergang | Individuelles Angebot auf Anfrage |
 
-## Alle Einträge
+---
 
-| Nr. | Pfad | Fall 1 (EUR) | Fall 2 unverändert (EUR) | Milliardenbetrag |
-|---:|---|---:|---:|:---:|
-| 1 | `subgraph-sat-solver-experiments` | 3.145.000,00 | 3.145.000,00 |  |
-| 2 | `basys3` | 3.145.000,00 | 3.145.000,00 |  |
-| 3 | `ids` | 3.145.000,00 | 3.145.000,00 |  |
-| 4 | `lis` | 3.145.000,00 | 3.145.000,00 |  |
-| 5 | `subgraph-sat-solver` | 3.145.000,00 | 3.145.000,00 |  |
-| 6 | `subgraph` | 3.145.000,00 | 3.145.000,00 |  |
-| 7 | `csubgraph` | 3.145.000,00 | 3.145.000,00 |  |
-| 8 | `gen-db` | 3.145.000,00 | 3.145.000,00 |  |
-| 9 | `odd/science/acoustcs` | 521.000.000,00 | 521.000.000,00 |  |
-| 10 | `odd/science/agrar` | 111.000.000,00 | 111.000.000,00 |  |
-| 11 | `odd/science/algebra` | 1.999.000,00 | 1.999.000.000,00 | ja |
-| 12 | `odd/science/ana` | 111.000.000,00 | 111.000.000,00 |  |
-| 13 | `odd/science/aramanth` | 999.000.000,00 | 999.000.000,00 |  |
-| 14 | `odd/science/archv` | 1.745.000,00 | 1.745.000,00 |  |
-| 15 | `odd/science/arm` | 1.299.000,00 | 1.299.000.000,00 | ja |
-| 16 | `odd/science/autsre` | 111.000.000,00 | 111.000.000,00 |  |
-| 17 | `odd/science/autsrepy` | 111.000.000,00 | 111.000.000,00 |  |
-| 18 | `odd/science/bloodc` | 742.000.000,00 | 742.000.000,00 |  |
-| 19 | `odd/science/breakd` | 999.000.000,00 | 999.000.000,00 |  |
-| 20 | `odd/science/brn` | 888.000.000,00 | 888.000.000,00 |  |
-| 21 | `odd/science/bs` | 3.888.000,00 | 3.888.000.000,00 | ja |
-| 22 | `odd/science/butt` | 888.000.000,00 | 888.000.000,00 |  |
-| 23 | `odd/science/cccov` | 1.277.000,00 | 1.277.000.000,00 | ja |
-| 24 | `odd/science/ccl` | 545.000.000,00 | 545.000.000,00 |  |
-| 25 | `odd/science/cdcsbgr` | 335.000.000,00 | 335.000.000,00 |  |
-| 26 | `odd/science/chatme` | 545.000.000,00 | 545.000.000,00 |  |
-| 27 | `odd/science/cleanocn` | 999.000.000,00 | 999.000.000,00 |  |
-| 28 | `odd/science/cnyn` | 1.111.000,00 | 1.111.000.000,00 | ja |
-| 29 | `odd/science/cooki` | 111.000.000,00 | 111.000.000,00 |  |
-| 30 | `odd/science/dengin` | 111.000.000,00 | 111.000.000,00 |  |
-| 31 | `odd/science/depension` | 2.222.000,00 | 2.222.000.000,00 | ja |
-| 32 | `odd/science/descpy` | 2.222.000,00 | 2.222.000.000,00 | ja |
-| 33 | `odd/science/desi` | 2.222.000,00 | 2.222.000.000,00 | ja |
-| 34 | `odd/science/digi` | 444.000.000,00 | 444.000.000,00 |  |
-| 35 | `odd/science/dmnt` | 1.411.000,00 | 1.411.000.000,00 | ja |
-| 36 | `odd/science/dna` | 1.411.000,00 | 1.411.000.000,00 | ja |
-| 37 | `odd/science/dnastor` | 2.211.000,00 | 2.211.000.000,00 | ja |
-| 38 | `odd/science/dusgraph` | 1.511.000,00 | 1.511.000.000,00 | ja |
-| 39 | `odd/science/dusgrxdnastr` | 1.111.000,00 | 1.111.000.000,00 | ja |
-| 40 | `odd/science/eaaznv` | 111.000.000,00 | 111.000.000,00 |  |
-| 41 | `odd/science/ecos` | 1.333.000,00 | 1.333.000.000,00 | ja |
-| 42 | `odd/science/edfplus` | 2.555.000,00 | 2.555.000.000,00 | ja |
-| 43 | `odd/science/engncompt` | 555.000.000,00 | 555.000.000,00 |  |
-| 44 | `odd/science/ethercate` | 334.000.000,00 | 334.000.000,00 |  |
-| 45 | `odd/science/exl2psql` | 1.111.000,00 | 1.111.000.000,00 | ja |
-| 46 | `odd/science/expgem` | 1.111.000,00 | 1.111.000.000,00 | ja |
-| 47 | `odd/science/expl` | 1.111.000,00 | 1.111.000.000,00 | ja |
-| 48 | `odd/science/faltings` | 1.500.000,00 | 1.500.000,00 |  |
-| 49 | `odd/science/feed` | 888.000.000,00 | 888.000.000,00 |  |
-| 50 | `odd/science/flowr` | 888.000.000,00 | 888.000.000,00 |  |
-| 51 | `odd/science/gasl` | 1.545.000,00 | 1.545.000,00 |  |
-| 52 | `odd/science/graphdenk` | 1.777.000,00 | 1.777.000.000,00 | ja |
-| 53 | `odd/science/graphs` | 777.000.000,00 | 777.000.000,00 |  |
-| 54 | `odd/science/grav` | 999.000.000,00 | 999.000.000,00 |  |
-| 55 | `odd/science/hadamard` | 2.888.000,00 | 2.888.000.000,00 | ja |
-| 56 | `odd/science/hand` | 888.000.000,00 | 888.000.000,00 |  |
-| 57 | `odd/science/hawk` | 333.000.000,00 | 333.000.000,00 |  |
-| 58 | `odd/science/hfep` | 1.444.000,00 | 1.444.000.000,00 | ja |
-| 59 | `odd/science/hlens` | 111.000.000,00 | 111.000.000,00 |  |
-| 60 | `odd/science/huskys` | 2.111.000,00 | 2.111.000.000,00 | ja |
-| 61 | `odd/science/hydr` | 111.000.000,00 | 111.000.000,00 |  |
-| 62 | `odd/science/inducte` | 555.000.000,00 | 555.000.000,00 |  |
-| 63 | `odd/science/iono` | 111.000.000,00 | 111.000.000,00 |  |
-| 64 | `odd/science/ionoxoqtum` | 111.000.000,00 | 111.000.000,00 |  |
-| 65 | `odd/science/jeteng` | 2.555.000,00 | 2.555.000.000,00 | ja |
-| 66 | `odd/science/kleinwagen` | 1.935.000,00 | 1.935.000.000,00 | ja |
-| 67 | `odd/science/krebs` | 2.935.000,00 | 2.935.000.000,00 | ja |
-| 68 | `odd/science/liionp` | 777.000.000,00 | 777.000.000,00 |  |
-| 69 | `odd/science/loggraphs` | 1.445.000,00 | 1.445.000.000,00 | ja |
-| 70 | `odd/science/logreg` | 888.000.000,00 | 888.000.000,00 |  |
-| 71 | `odd/science/lsat` | 111.000.000,00 | 111.000.000,00 |  |
-| 72 | `odd/science/massatllt` | 1.535.000,00 | 1.535.000.000,00 | ja |
-| 73 | `odd/science/matrix` | 1.535.000,00 | 1.535.000.000,00 | ja |
-| 74 | `odd/science/mcu` | 1.535.000,00 | 1.535.000.000,00 | ja |
-| 75 | `odd/science/mechcl` | 535.000.000,00 | 535.000.000,00 |  |
-| 76 | `odd/science/mobde` | 111.000.000,00 | 111.000.000,00 |  |
-| 77 | `odd/science/mpconst` | 545.000.000,00 | 545.000.000,00 |  |
-| 78 | `odd/science/msubgraph` | 1.745.000,00 | 1.745.000,00 |  |
-| 79 | `odd/science/nanoneut` | 1.111.000,00 | 1.111.000.000,00 | ja |
-| 80 | `odd/science/nawfeuk` | 1.111.000,00 | 1.111.000.000,00 | ja |
-| 81 | `odd/science/netwfltr` | 1.111.000,00 | 1.111.000.000,00 | ja |
-| 82 | `odd/science/nfm` | 545.000.000,00 | 545.000.000,00 |  |
-| 83 | `odd/science/nngraphs` | 1.111.000,00 | 1.111.000.000,00 | ja |
-| 84 | `odd/science/nniso26262` | 1.111.000,00 | 1.111.000.000,00 | ja |
-| 85 | `odd/science/npw` | 4.444.000,00 | 4.444.000.000,00 | ja |
-| 86 | `odd/science/obrake` | 111.000.000,00 | 111.000.000,00 |  |
-| 87 | `odd/science/ocnscnce` | 699.000.000,00 | 699.000.000,00 |  |
-| 88 | `odd/science/odb` | 111.000.000,00 | 111.000.000,00 |  |
-| 89 | `odd/science/oqtum` | 111.000.000,00 | 111.000.000,00 |  |
-| 90 | `odd/science/pascbin` | 1.177.000,00 | 1.177.000.000,00 | ja |
-| 91 | `odd/science/pathsim` | 1.177.000,00 | 1.177.000.000,00 | ja |
-| 92 | `odd/science/pgpi` | 111.000.000,00 | 111.000.000,00 |  |
-| 93 | `odd/science/physd` | 1.745.000,00 | 1.745.000,00 |  |
-| 94 | `odd/science/pmet` | 1.722.000,00 | 1.722.000.000,00 | ja |
-| 95 | `odd/science/polysgr` | 2.977.000,00 | 2.977.000.000,00 | ja |
-| 96 | `odd/science/pqc` | 977.000.000,00 | 977.000.000,00 |  |
-| 97 | `odd/science/prsttkrbs` | 333.000.000,00 | 333.000.000,00 |  |
-| 98 | `odd/science/pymca8` | 2.845.000,00 | 2.845.000,00 |  |
-| 99 | `odd/science/pymdna8` | 2.111.000,00 | 2.111.000.000,00 | ja |
-| 100 | `odd/science/resp` | 115.000,00 | 115.000,00 |  |
-| 101 | `odd/science/robo` | 333.000.000,00 | 333.000.000,00 |  |
-| 102 | `odd/science/rockts` | 778.000.000,00 | 778.000.000,00 |  |
-| 103 | `odd/science/rubbr` | 111.000.000,00 | 111.000.000,00 |  |
-| 104 | `odd/science/schoepfung` | 3.000.000,00 | 3.000.000.000,00 | ja |
-| 105 | `odd/science/schrauben` | 3.000.000,00 | 3.000.000.000,00 | ja |
-| 106 | `odd/science/signalth` | 888.000.000,00 | 888.000.000,00 |  |
-| 107 | `odd/science/sr91` | 1.111.000,00 | 1.111.000.000,00 | ja |
-| 108 | `odd/science/stars` | 1.111.000,00 | 1.111.000.000,00 | ja |
-| 109 | `odd/science/vadis` | 1.111.000,00 | 1.111.000.000,00 | ja |
-| 110 | `odd/science/verilog` | 2.100.000,00 | 2.100.000.000,00 | ja |
-| 111 | `odd/science/wash` | 999.000.000,00 | 999.000.000,00 |  |
-| 112 | `odd/science/zagi` | 2.111.000,00 | 2.111.000.000,00 | ja |
-| 113 | `odd/science/zufall` | 2.222.000,00 | 2.222.000.000,00 | ja |
-| 114 | `odd/science/solwindw` | 3.888.000,00 | 3.888.000.000,00 | ja |
-| 115 | `odd/science/sun` | 999.999.000,00 | 999.999.000,00 |  |
-| 116 | `odd/science/sysstate` | 999.999.000,00 | 999.999.000,00 |  |
-| 117 | `odd/science/systemth` | 1.111.000,00 | 1.111.000.000,00 | ja |
-| 118 | `odd/science/tanyzyten` | 1.111.100,00 | 1.111.100,00 |  |
-| 119 | `odd/science/thebike` | 222.111.100,00 | 222.111.100,00 |  |
-| 120 | `odd/science/tischstuhl` | 1.100,00 | 1.100,00 |  |
-| 121 | `odd/science/uqtl` | 111.000.000,00 | 111.000.000,00 |  |
-| 122 | `odd/science/watnsun` | 2.000.000,00 | 2.000.000.000,00 | ja |
-| 123 | `odd/science/wbear` | 1.111.000,00 | 1.111.000.000,00 | ja |
-| 124 | `odd/science/wchiffre` | 9.999.000,00 | 9.999.000.000,00 | ja |
-| 125 | `odd/science/whale` | 1.111.000,00 | 1.111.000.000,00 | ja |
-| 126 | `odd/science/zrrs` | 1.111.000,00 | 1.111.000.000,00 | ja |
-| | **Summe** | **26.895.692.300,00** | **134.858.621.300,00** | |
+## Übersicht der Bewertungsklassen
+
+| Klasse | Bewertungsrahmen | Anzahl Arbeiten |
+|---|---|---:|
+| **Klasse IV (Basis)** | bis 10 Mio. € | 17 |
+| **Klasse III (Standard)** | 10 Mio. € bis unter 1 Mrd. € | 54 |
+| **Klasse II (Premium)** | 1 Mrd. € bis unter 3 Mrd. € | 49 |
+| **Klasse I (Strategisch)** | ab 3 Mrd. € | 6 |
+
+*Hinweis zu Bündellizenzen:* Der parallele Erwerb mehrerer zusammenhängender Arbeiten (z. B. Fachbereiche *Matrix & Algebra*, *Automotive & Embedded Systems*, *Hardware & Verifikation*, *Biotechnologie* oder *Energietechnik*) ist im Rahmen vertraglicher Paketvereinbarungen möglich.
+
+---
+
+## Katalog der Arbeiten nach Fachbereichen
+
+Die Arbeiten sind nach Fachbereichen geordnet und innerhalb der Kategorien nach ihrem Bewertungsrichtwert absteigend sortiert.
+
+### 1. Subgraph-Kern & Root-Repositories
+
+| Repository | Gegenstand der Arbeit | Klasse | Bewertungsrichtwert |
+|---|---|---|---:|
+| `subgraph` | Der Subgraph-Algorithmus (Kernkomponente) | Klasse IV | ca. 3,1 Mio. € |
+| `subgraph-sat-solver` | Architekturentwurf des Subgraph-SAT-Solvers | Klasse IV | ca. 3,1 Mio. € |
+| `subgraph-sat-solver-experiments` | Empirische Studien und Versuchsreihen zum SAT-Solver | Klasse IV | ca. 3,1 Mio. € |
+| `csubgraph` | Spezifische Subgraph-Implementierungsvariante | Klasse IV | ca. 3,1 Mio. € |
+| `lis` | Local Information Scheduling: Optimale Programmausführung | Klasse IV | ca. 3,1 Mio. € |
+| `gen-db` | Genomdatenbanken und evolutionäre Netzwerkanalyse | Klasse IV | ca. 3,1 Mio. € |
+| `basys3` | FPGA-Hardwareprojektierung (Basys 3) | Klasse IV | ca. 3,1 Mio. € |
+| `ids` | Eigenständiges Root-Repository für Identifikationssysteme | Klasse IV | ca. 3,1 Mio. € |
+
+### 2. Mathematik, Algorithmen & Grundlagenforschung
+
+| Repository | Gegenstand der Arbeit | Klasse | Bewertungsrichtwert |
+|---|---|---|---:|
+| `depension` | Theorie der mathematischen Abhängigkeitsmodellierung | Klasse II | ca. 2,22 Mrd. € |
+| `zufall` | Epistemische versus fundamentale Stochastik | Klasse II | ca. 2,22 Mrd. € |
+| `watnsun` | Prinzip der Negation und Energiefunktionsmodelle der Sonne | Klasse II | ca. 2,00 Mrd. € |
+| `algebra` | Effiziente Vektor- und Matrizenberechnung | Klasse II | ca. 2,00 Mrd. € |
+| `graphdenk` | Graphenstrukturelles Denken als mathematisches Paradigma | Klasse II | ca. 1,78 Mrd. € |
+| `matrix` | Kompakte Datenrepräsentationsmodelle mittels Matrizen | Klasse II | ca. 1,53 Mrd. € |
+| `loggraphs` | Mathematische Optimalität der Graphenmodellierung | Klasse II | ca. 1,45 Mrd. € |
+| `pascbin` | Pascalsches Dreieck als Lookup-System für Binomialkoeffizienten | Klasse II | ca. 1,18 Mrd. € |
+| `systemth` | Asymmetrische Matrixmultiplikation für dynamische Systeme | Klasse II | ca. 1,11 Mrd. € |
+| `expl` | Grenzen mathematischer Beschreibbarkeit | Klasse II | ca. 1,11 Mrd. € |
+| `graphs` | Universelle Datenstrukturen auf Graphenbasis | Klasse III | ca. 777 Mio. € |
+| `nfm` | Polynomielle Lösungsansätze im Facility-Management | Klasse III | ca. 545 Mio. € |
+| `digi` | Diskrete versus kontinuierliche Systembeschreibungen | Klasse III | ca. 444 Mio. € |
+| `lsat` | Learning SAT in Boolean Circuits | Klasse III | ca. 111 Mio. € |
+| `ana` | Rotationsmethode zur Kurvendiskussion | Klasse III | ca. 111 Mio. € |
+| `msubgraph` | Hierarchischer Subgraph-Algorithmus | Klasse IV | ca. 1,7 Mio. € |
+| `faltings` | Anwendungen des Satzes von Faltings auf abelsche Varietäten | Klasse IV | ca. 1,5 Mio. € |
+
+### 3. Physik, Astrophysik & Energietechnik
+
+| Repository | Gegenstand der Arbeit | Klasse | Bewertungsrichtwert |
+|---|---|---|---:|
+| `solwindw` | Transparente Photovoltaik-Verglasungssysteme | Klasse I | ca. 3,89 Mrd. € |
+| `schrauben` | Unterwasser-Schraubenkonstruktionen für Flusskraftwerke | Klasse I | ca. 3,00 Mrd. € |
+| `desi` | Auswertung kosmologischer DESI-Messergebnisse | Klasse II | ca. 2,22 Mrd. € |
+| `stars` | Modellierung von Sternenclustern als gewichtete Graphen | Klasse II | ca. 1,11 Mrd. € |
+| `cnyn` | Geomorphologische Analyse erosiver Prozesse (Grand Canyon) | Klasse II | ca. 1,11 Mrd. € |
+| `sun` | Atmosphärische Brechungsmodelle von Sonnenlicht | Klasse III | ca. 1,00 Mrd. € |
+| `grav` | Machbarkeitsanalyse kinetischer Gravitationssysteme | Klasse III | ca. 999 Mio. € |
+| `signalth` | Signaltheorie und Eigenschaften der Exponentialfunktion | Klasse III | ca. 888 Mio. € |
+| `inducte` | Energiegewinnung mittels Induktionssystemen | Klasse III | ca. 555 Mio. € |
+| `mpconst` | Theoretische Neubetrachtung des Planckschen Wirkungsquantums | Klasse III | ca. 545 Mio. € |
+| `acoustcs` | Akustische Optimierung symmetrischer Hörräume | Klasse III | ca. 521 Mio. € |
+| `iono` | Ionotronische Flüssigkeitsberechnungen | Klasse III | ca. 111 Mio. € |
+| `ionoxoqtum` | Optische Nanostrukturen unter Einwirkung von Wasser und Licht | Klasse III | ca. 111 Mio. € |
+| `oqtum` | Programmierbare photonische Oberflächenstrukturen | Klasse III | ca. 111 Mio. € |
+| `hlens` | Optisches Linsensystem mit kontinuierlicher Brennweitenverstellung | Klasse III | ca. 111 Mio. € |
+| `eaaznv` | Bathymetrische Tiefenvermessung in Küstengewässern | Klasse III | ca. 111 Mio. € |
+| `physd` | Theoretische Physik und Grenzen der Formalisierbarkeit | Klasse IV | ca. 1,7 Mio. € |
+
+### 4. Hardware, Embedded Systems, Automotive & Compilerbau
+
+| Repository | Gegenstand der Arbeit | Klasse | Bewertungsrichtwert |
+|---|---|---|---:|
+| `bs` | Echtzeit-Betriebssystem mit EDF+-Scheduling | Klasse I | ca. 3,89 Mrd. € |
+| `hadamard` | Analyse kohärenter Phasenfehler in Hadamard-Quantengattern | Klasse II | ca. 2,89 Mrd. € |
+| `edfplus` | Theorie und Implementierung von EDF+-Echtzeit-Scheduling | Klasse II | ca. 2,56 Mrd. € |
+| `pymdna8` | Prozessorarchitektur mit DNA-basiertem L5-Cache | Klasse II | ca. 2,11 Mrd. € |
+| `verilog` | Synthese logischer Schaltungen mittels Subgraph-Algorithmus | Klasse II | ca. 2,10 Mrd. € |
+| `mcu` | Benchmark-Analyse von 12 Mikrocontroller-Architekturen | Klasse II | ca. 1,53 Mrd. € |
+| `arm` | Neue Leistungs- und Effizienzmetriken für ARM-Cortex-Systeme | Klasse II | ca. 1,30 Mrd. € |
+| `pathsim` | Generierung MISRA-konformen C99-Codes aus Python-Modellen | Klasse II | ca. 1,18 Mrd. € |
+| `nniso26262` | Integration neuronaler Netze nach ISO 26262 (Funktionale Sicherheit) | Klasse II | ca. 1,11 Mrd. € |
+| `aramanth` | Formale Verifikation von Amaranth-HDL gegenüber VHDL | Klasse III | ca. 999 Mio. € |
+| `ccl` | Polynomielle Komplexitätsklassen in Compiler- und Linkerproblemen | Klasse III | ca. 545 Mio. € |
+| `cdcsbgr` | Verifikation von Clock Domain Crossing (CDC) im VLSI-Entwurf | Klasse III | ca. 335 Mio. € |
+| `ethercate` | EtherCAT-Anbindung für echtzeitfähige HMI-Anwendungen | Klasse III | ca. 334 Mio. € |
+| `autsre` | Zentrales OTA-Update-Management im AUTOSAR-Standard | Klasse III | ca. 111 Mio. € |
+| `autsrepy` | Integration von Python/MicroPython in AUTOSAR-Umgebungen | Klasse III | ca. 111 Mio. € |
+| `pymca8` | 8-Kern-Prozessorarchitektur mit Python-Speichermodell | Klasse IV | ca. 2,8 Mio. € |
+| `archv` | Archivalische Speicherprobleme und Cache-Hierarchien | Klasse IV | ca. 1,7 Mio. € |
+
+### 5. Fahrzeugtechnik, Maschinenbau & Mechanik
+
+| Repository | Gegenstand der Arbeit | Klasse | Bewertungsrichtwert |
+|---|---|---|---:|
+| `kleinwagen` | Minimalistische ADAS-Architektur gemäß EU 2019/2144 | Klasse II | ca. 1,94 Mrd. € |
+| `dmnt` | Rotationsdynamische Analysen bei Diamantsägeblättern | Klasse II | ca. 1,41 Mrd. € |
+| `zrrs` | Architektur eines zentralen Reifendruckregelsystems | Klasse II | ca. 1,11 Mrd. € |
+| `wash` | Kinematische Effekte bei Linksdrehung in Trommelwaschmaschinen | Klasse III | ca. 999 Mio. € |
+| `engncompt` | Wartungsorientierte Raumoptimierung von Motorräumen | Klasse III | ca. 555 Mio. € |
+| `mechcl` | Ausfallsicherer doppelter Ringverschluss ohne Single Point of Failure | Klasse III | ca. 535 Mio. € |
+| `thebike` | Thermoisolierungssysteme für E-Bike-Rahmenkonstruktionen | Klasse III | ca. 222 Mio. € |
+| `dengin` | Optimierung von Dieselmotoren im Hinblick auf maximale Standzeit | Klasse III | ca. 111 Mio. € |
+| `hydr` | Untersuchungen zur Elastizität hydraulischer Betriebsmedien | Klasse III | ca. 111 Mio. € |
+| `obrake` | Anordnungsoptimierung von Bremsbelagkonfigurationen | Klasse III | ca. 111 Mio. € |
+| `rubbr` | Verschleißoptimierung von Gummibereifung | Klasse III | ca. 111 Mio. € |
+| `gasl` | Strömungsmechanische Optimierung in Gasleitungen | Klasse IV | ca. 1,5 Mio. € |
+
+### 6. Luft- & Raumfahrt, Robotik
+
+| Repository | Gegenstand der Arbeit | Klasse | Bewertungsrichtwert |
+|---|---|---|---:|
+| `jeteng` | Effizienzoptimierung hybrider Strahltriebwerke | Klasse II | ca. 2,56 Mrd. € |
+| `zagi` | Lärmreduktionskonzepte für Überschall-Passagierflugzeuge | Klasse II | ca. 2,11 Mrd. € |
+| `massatllt` | LEO-Multiagentensysteme mit Drosophila-basierten Trajektorien | Klasse II | ca. 1,53 Mrd. € |
+| `hfep` | Antriebskonzepte auf Basis hybrider Feldeffekte | Klasse II | ca. 1,44 Mrd. € |
+| `sr91` | Strömungs- und Thermodynamikanalyse für Hyperschallflugkörper | Klasse II | ca. 1,11 Mrd. € |
+| `rockts` | Modellierung von Raketenantrieben, Bahnmechanik und Hyperschall | Klasse III | ca. 778 Mio. € |
+| `hawk` | Drohnen-Anflugsteuerung nach dem Vorbild des Wanderfalken | Klasse III | ca. 333 Mio. € |
+| `robo` | IoFET-Roboterarchitektur für industrielle Fertigungsprozesse | Klasse III | ca. 333 Mio. € |
+
+### 7. Softwareengineering, Datenverarbeitung & KI
+
+| Repository | Gegenstand der Arbeit | Klasse | Bewertungsrichtwert |
+|---|---|---|---:|
+| `polysgr` | Algorithmen zur optimalen Polygon-Tessellierung | Klasse II | ca. 2,98 Mrd. € |
+| `descpy` | Expressivität und Performanz von NumPy, SciPy und Matplotlib | Klasse II | ca. 2,22 Mrd. € |
+| `dusgraph` | Deduplizierungsverfahren für Dateisystem-Graphen | Klasse II | ca. 1,51 Mrd. € |
+| `netwfltr` | Echtzeit-Netzwerkmonitoring mit integrierter Web-Schnittstelle | Klasse II | ca. 1,11 Mrd. € |
+| `vadis` | Vektordaten-Framework | Klasse II | ca. 1,11 Mrd. € |
+| `exl2psql` | Automatisierte Migration von Excel/VBA nach PostgreSQL | Klasse II | ca. 1,11 Mrd. € |
+| `nngraphs` | Kapazitätssteigerung neuronaler Netze durch Graphrestrukturierung | Klasse II | ca. 1,11 Mrd. € |
+| `logreg` | Theoretische Grundlagen der logistischen Regression | Klasse III | ca. 888 Mio. € |
+| `liionp` | Algorithmen zum Batteriemanagement von Li-Ionen-Akkumulatoren | Klasse III | ca. 777 Mio. € |
+| `chatme` | Verschlüsselte Ende-zu-Ende-Kommunikationsarchitektur für Android | Klasse III | ca. 545 Mio. € |
+| `uqtl` | Abfrageübersetzung von Python/Java/C# in SQL-Befehle | Klasse III | ca. 111 Mio. € |
+| `odb` | Verfahren zum tiefenorientierten Datenbankentwurf | Klasse III | ca. 111 Mio. € |
+| `mobde` | Dateisystemorganisation in mobilen Betriebssystemen | Klasse III | ca. 111 Mio. € |
+| `resp` | Ressourcenoptimierung für Personal, Material und Einsatzzeiten | Klasse IV | ca. 115 Tsd. € |
+
+### 8. IT-Sicherheit & Wirtschaftswissenschaften
+
+| Repository | Gegenstand der Arbeit | Klasse | Bewertungsrichtwert |
+|---|---|---|---:|
+| `wchiffre` | Fenster-Chiffre mit Fragmentierungsmechanismen | Klasse I | ca. 10,00 Mrd. € |
+| `ecos` | Gesamtausgabe zur ökonomischen Modellbildung | Klasse II | ca. 1,33 Mrd. € |
+| `sysstate` | Klassifikation von Zustandsräumen dynamischer Systeme | Klasse III | ca. 1,00 Mrd. € |
+| `pqc` | Verfahren zur Post-Quanten-Kryptographie | Klasse III | ca. 977 Mio. € |
+| `pgpi` | Parameterevaluierung affiner Chiffrierverfahren | Klasse III | ca. 111 Mio. € |
+| `agrar` | KI-gestütztes Ökosystem zur Qualitätsbeurteilung in der Agrarwirtschaft | Klasse III | ca. 111 Mio. € |
+
+### 9. Biowissenschaften, Medizin & Marine Systeme
+
+| Repository | Gegenstand der Arbeit | Klasse | Bewertungsrichtwert |
+|---|---|---|---:|
+| `krebs` | Genethische und physiologische Stressfaktoren in der Onkologie | Klasse II | ca. 2,94 Mrd. € |
+| `dnastor` | Verfahren zur hochdichten Datenhaltung in DNA-Strukturen | Klasse II | ca. 2,21 Mrd. € |
+| `huskys` | Verhaltensbiologische Analysen zur Entwicklungsphase von Caniden | Klasse II | ca. 2,11 Mrd. € |
+| `pmet` | Entwicklungsbiologische Periodizität der Metamorphose | Klasse II | ca. 1,72 Mrd. € |
+| `dna` | Graphenbasierte Algorithmen zur DNA-Sequenzierung | Klasse II | ca. 1,41 Mrd. € |
+| `cccov` | Analyse des zoonotischen Pandemiepotenzials von CcCoV-KY43 | Klasse II | ca. 1,28 Mrd. € |
+| `dusgrxdnastr` | Deduplizierungsalgorithmen für DNA-basierten Datenspeicher | Klasse II | ca. 1,11 Mrd. € |
+| `expgem` | Kinetik des Zerfalls von Gedächtnisinhalten | Klasse II | ca. 1,11 Mrd. € |
+| `wbear` | Analyse biologischer Fellpigmentierungen | Klasse II | ca. 1,11 Mrd. € |
+| `whale` | Ethologische Studien zum Reaktionsverhalten von Cetaceen | Klasse II | ca. 1,11 Mrd. € |
+| `nanoneut` | Verfahren zur chemisch-physikalischen Neutralisierung von Mikroplastik | Klasse II | ca. 1,11 Mrd. € |
+| `breakd` | Magnesium-Kinetik und gastroenterologische Resorptionsprinzipien | Klasse III | ca. 999 Mio. € |
+| `cleanocn` | Konzepte zur großflächigen Entfernung von Meeresverschmutzungen | Klasse III | ca. 999 Mio. € |
+| `brn` | Epistemische Informationsstrukturen in neuronalen Netzwerken | Klasse III | ca. 888 Mio. € |
+| `butt` | Anatomisch-biomechanische Grundsatzstudie der Glutealmuskulatur | Klasse III | ca. 888 Mio. € |
+| `feed` | Neurologische Sensorik der menschlichen Planta pedis | Klasse III | ca. 888 Mio. € |
+| `flowr` | Biochemie der Duftstoffemissionen von Nutz- und Zierpflanzen | Klasse III | ca. 888 Mio. € |
+| `hand` | Kinematik der Hand als kognitives Werkzeug | Klasse III | ca. 888 Mio. € |
+| `bloodc` | Diagnostische Verfahren zur Früherkennung von Leukämie | Klasse III | ca. 742 Mio. € |
+| `ocnscnce` | Auswirkung von Kupferinduktion auf Korallenriffe bei Ozeanversauerung | Klasse III | ca. 699 Mio. € |
+| `prsttkrbs` | Endokrine Therapieansätze beim Prostatakarzinom | Klasse III | ca. 333 Mio. € |
+| `cooki` | Physikalisch-chemische Verteilungsprozesse von Würze in Nahrungsmitteln | Klasse III | ca. 111 Mio. € |
+| `tanyzyten` | Tanyzyten als Clearance-Mechanismus im Kontext der Alzheimer-Forschung | Klasse IV | ca. 1,1 Mio. € |
+
+### 10. Geisteswissenschaften & Interdisziplinäre Studien
+
+| Repository | Gegenstand der Arbeit | Klasse | Bewertungsrichtwert |
+|---|---|---|---:|
+| `npw` | Interdisziplinäre Synthese domänenübergreifender Forschungspotenziale | Klasse I | ca. 4,44 Mrd. € |
+| `schoepfung` | Textkritische und Hermeneutische Analyse altorientalischer Schöpfungsberichte | Klasse I | ca. 3,00 Mrd. € |
+| `nawfeuk` | Bauphysikalische Feuchteanalysen von Mauerwerk und Untergeschossen | Klasse II | ca. 1,11 Mrd. € |
+| `tischstuhl` | Ergonomie- und Kulturgeschichte sitzorientierter Arbeitsmöbel | Klasse IV | ca. 1.100 € |
+
+---
+
+## Kontakt & Anfragen
+
+Für qualifizierte Anfragen zur Lizenzierung, Einsichtnahme in Dokumentationen oder Verhandlungen bezüglich einer Rechteübertragung wenden Sie sich bitte an:
+
+**Urheber & Rechteinhaber:** Stephan Epp  
+**E-Mail:** [Kontakt-Adresse einfügen]  
+**GitHub:** [GitHub-Profil-Link einfügen]  
+
+---
+
+## Rechtliche Hinweise & Nutzungsbedingungen
+
+1. **Unverbindlichkeit der Wertangaben:** Die aufgeführten Beträge stellen indikative Richtwerte zur Orientierung dar. Der finale Transaktionswert richtet sich nach dem rechtlichen Rahmen (Einfache Nutzung, Exklusivität, Branchenbeschränkungen) und wird vertraglich individuell festgelegt.
+2. **Urheberrecht & Schutzrechte:** Alle Inhalte, Algorithmen, Quellcodes und Dokumentationen bleiben bis zum Abschluss einer ausdrücklichen exklusiven Übertragungsvereinbarung im alleinigen geistigen Eigentum von Stephan Epp. Unbefugte Vervielfältigung, Dekompilierung oder Modifikation ist untersagt.
+3. **Nutzungseinräumung:** Sofern nicht abweichend vereinbart, gewährt der Erwerb einer Lizenz ein einfaches, nicht-übertragbares und nicht-unterlizenzierbares Nutzungsrecht für definierte Zwecke.
+4. **Haftungsausschluss:** Die Bereitstellung erfolgt unter Ausschluss jeglicher Mängelhaftung, soweit gesetzlich zulässig. Der Rechteinhaber übernimmt keine Gewährleistung für die kommerzielle Verwertbarkeit oder Eignung der Ergebnisse für spezifische Zwecke. Die Haftung für indirekte Schäden, Folgeschäden sowie entgangenen Gewinn ist ausgeschlossen.
+5. **Anwendbares Recht & Gerichtsstand:** Es gilt ausschließlich das Recht der Bundesrepublik Deutschland.
