@@ -43,7 +43,7 @@ Die Arbeiten sind nach Fachbereichen geordnet und innerhalb der Kategorien nach 
 | `subgraph-sat-solver-experiments` | Empirische Studien und Versuchsreihen zum SAT-Solver | Klasse IV | ca. 3,1 Mio. € |
 | `csubgraph` | Spezifische Subgraph-Implementierungsvariante | Klasse IV | ca. 3,1 Mio. € |
 | `lis` | Local Information Scheduling: Optimale Programmausführung | Klasse IV | ca. 3,1 Mio. € |
-| `gen-db` | Genomdatenbanken und evolutionäre Netzwerkanalyse | Klasse IV | ca. 3,1 Mio. € |
+| `gen-db` | Genomdatenbanken und evolutionäre Netzwerkanalyse | Klasse IV | ca. 5,7 Mio. € |
 | `basys3` | FPGA-Hardwareprojektierung (Basys 3) | Klasse IV | ca. 3,1 Mio. € |
 | `ids` | Eigenständiges Root-Repository für Identifikationssysteme | Klasse IV | ca. 3,1 Mio. € |
 
